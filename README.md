@@ -33,10 +33,10 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hannahcrowell&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://open.spotify.com/user/mfhm1316">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mfhm1316&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
